@@ -2,4 +2,4 @@
 $ cat .gitignore
 *.[oa]
 *~
-.txt
+*.txt
