@@ -1,0 +1,5 @@
+"#LR_4" 
+$ cat .gitignore
+*.[oa]
+*~
+.txt
